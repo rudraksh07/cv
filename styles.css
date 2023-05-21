@@ -55,7 +55,9 @@ a{
    padding:50px 0px 20px;
    
 }
-
+.footer-link{
+    color:#ffffff;
+}
 .bottom-cloud{
     position:absolute;
    left:300px;
